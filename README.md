@@ -107,4 +107,5 @@ For deliverable 3 we need to follow these steps
 
 
 ![image](https://user-images.githubusercontent.com/112978144/228301802-1686e79c-0c04-49a4-b64a-7bc08532f974.png)
-
+# summary
+The final automatically optimized neural network trained model from the keras tuner method achieved 73% prediction accuracy with 56% loss. It might provide better results using some different classification model and give us accuracy greater than 75%.
